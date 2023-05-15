@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752591595999",
+    "firebase_url": "https://rmgx-microlearning-default-rtdb.firebaseio.com",
+    "project_id": "rmgx-microlearning",
+    "storage_bucket": "rmgx-microlearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752591595999:android:4b8a17cc2a2937291efc6a",
+        "android_client_info": {
+          "package_name": "com.RMgX.Microlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752591595999-sv62a0fbfdokieoqj425vn4q6agahmds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5E5dcT9eFNeSaw129u1VH5YM9xvw-X5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752591595999-sv62a0fbfdokieoqj425vn4q6agahmds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
